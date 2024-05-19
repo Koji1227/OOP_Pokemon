@@ -1,4 +1,5 @@
 This is my self study from the YouTube video: https://www.youtube.com/watch?v=7_hNvwSYEmo [Japanese]
+
 The original files are on https://github.com/kiyodori/oop_pokemon
 
 行った変更：
